@@ -1,4 +1,4 @@
-##TOURISM INFORMATION web site of INDIA
+#TOURISM INFORMATION web site of INDIA
 
 i. List of places (Information) with its salient features.
 
